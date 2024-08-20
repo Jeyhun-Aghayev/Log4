@@ -1,21 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "k8RBcljb7JU=",
+  "dgSpecHash": "OcHVULZUUiY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Task\\Log4\\Log4\\Log4.csproj",
+  "projectFilePath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Log4\\Log4\\Log4.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Asus\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-preview.7.24407.12\\microsoft.net.sdk.compilers.toolset.9.0.100-preview.7.24407.12.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.7\\microsoft.windowsdesktop.app.ref.8.0.7.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.7\\microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.7\\microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.7\\microsoft.netcore.app.host.win-x64.8.0.7.nupkg.sha512"
+    "C:\\Users\\ceyhunsa\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",
+    "C:\\Users\\ceyhunsa\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ceyhunsa\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\ceyhunsa\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\ceyhunsa\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\ceyhunsa\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\ceyhunsa\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
